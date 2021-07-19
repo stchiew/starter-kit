@@ -10,7 +10,7 @@ function App() {
           Starter Kit
         </p>
       </header>
-      <div>My Stuff Here</div>
+
       <Clock description='A Clock app here' />
     </div>
   );
